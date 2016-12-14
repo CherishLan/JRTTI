@@ -1,4 +1,6 @@
 
+JRTTI 是针对bcb rtti开发的
+
 JRTTI开发环境：
 	Qt 4.8.4 msvc2010 x86 (qt_addin_vs)
 	Visual studio 2010 x86
